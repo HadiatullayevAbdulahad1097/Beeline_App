@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/drawable/ic_baseline_autorenew_24.xml" value="0.193" />
+        <entry key="app/src/main/res/drawable/rang_internet.xml" value="0.15623474121093742" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.309375" />
+        <entry key="app/src/main/res/layout/fragment_hizmatlar.xml" value="0.3234375" />
+        <entry key="app/src/main/res/layout/fragment_home.xml" value="0.3234375" />
+        <entry key="app/src/main/res/layout/fragment_itemlar.xml" value="0.3234375" />
+        <entry key="app/src/main/res/layout/fragment_yangiliklar.xml" value="0.3234375" />
+        <entry key="app/src/main/res/layout/hizmatlar_item.xml" value="0.3939076741536458" />
+        <entry key="app/src/main/res/layout/internet_item.xml" value="0.15989583333333332" />
+        <entry key="app/src/main/res/layout/sms_item.xml" value="0.3223958333333333" />
+        <entry key="app/src/main/res/layout/tariflar_item.xml" value="0.15989583333333332" />
+      </map>
+    </option>
+  </component>
+  <component name="EntryPointsManager">
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="android.annotation.SuppressLint" />
+    </list>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
